@@ -1,0 +1,22 @@
+body {
+    background-color: gray;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.graphic {
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 2%;
+    border-top: 5px black;
+}
+
+input {
+    width: 10%;
+}
+    
+
